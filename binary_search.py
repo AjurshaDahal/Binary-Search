@@ -26,7 +26,7 @@ def binary_search(list,element):
 
     return -1
          
-List=[90,3,4,1,5,7,9,8,6]
+List=[90,3,4,1,5,7,9,8,6,3,4,5,6]
 
 target = 7
 binary_search(List, target)
